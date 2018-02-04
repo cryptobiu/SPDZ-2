@@ -85,7 +85,7 @@ opcodes = dict(
     STARTOPEN = 0xA0,
     STOPOPEN = 0xA1,
     E_STARTMULT = 0xA2,
-    E_STOPMULT = 0xA3,
+    E_STOPMULT=0xA3,
     # Data access
     TRIPLE = 0x50,
     BIT = 0x51,
