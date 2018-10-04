@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 
+sudo ldconfig /usr/local/lib
 export SPDZ_EXT_LIB="~/SPDZ-2-Extension-MpcHonestMajority/"
 
 # read the arguments without party id
