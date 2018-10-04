@@ -13,6 +13,8 @@ done
 
 idx=${1}
 
+cd ~/SPDZ-2
+
 if [ "$argc" -eq "2" ]; then
     ./Server.x ${values}
 else
