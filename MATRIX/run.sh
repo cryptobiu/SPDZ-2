@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+export SPDZ_EXT_LIB = "~/SPDZ-2-Extension-MpcHonestMajority/"
+
 # read the arguments without party id
 
 argc=$#
